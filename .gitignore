@@ -8,6 +8,8 @@ out/
 out/?
 target/
 target/?
+.git
+.git/?
 
 
 
